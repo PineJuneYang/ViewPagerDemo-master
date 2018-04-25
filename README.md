@@ -637,7 +637,7 @@
 ---
 [个人主页](http://www.jianshu.com/users/64f479a1cef7/latest_articles)
 
-[Demo下载地址](https://github.com/PingerWan/ViewPagerDemo)
+[Demo下载地址](https://github.com/PineJuneYang/ViewPagerDemo)
 
 
-####  以上纯属于个人平时工作和学习的一些总结分享，如果有什么错误欢迎随时指出，大家可以讨论一起进步。如果你觉得对你有帮助，请到[GitHub](https://github.com/PingerWan/ViewPagerDemo)上点个赞，谢谢。
+####  以上纯属于个人平时工作和学习的一些总结分享，如果有什么错误欢迎随时指出，大家可以讨论一起进步。如果你觉得对你有帮助，请到[GitHub](https://github.com/PineJuneYang/ViewPagerDemo)上点个赞，谢谢。
